@@ -1,6 +1,8 @@
-# Color Generation :art:
+# Color Generator :art:
 
 A simple color generator application using [React.Js](https://reactjs.org/). This Application won't give you any autometic color but it's give you `41` different color suggestion that you want.
+
+See live : [ColGen](https://mhhabib.github.io/ColorGen/)
 
 ### When it can be used?
 
