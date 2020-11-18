@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColorGen/static/css/main.b107f223.chunk.css",
+    "main.js": "/ColorGen/static/js/main.cf291277.chunk.js",
+    "main.js.map": "/ColorGen/static/js/main.cf291277.chunk.js.map",
+    "runtime-main.js": "/ColorGen/static/js/runtime-main.7d2ac366.js",
+    "runtime-main.js.map": "/ColorGen/static/js/runtime-main.7d2ac366.js.map",
+    "static/js/2.880eb5de.chunk.js": "/ColorGen/static/js/2.880eb5de.chunk.js",
+    "static/js/2.880eb5de.chunk.js.map": "/ColorGen/static/js/2.880eb5de.chunk.js.map",
+    "static/js/3.80be4fd7.chunk.js": "/ColorGen/static/js/3.80be4fd7.chunk.js",
+    "static/js/3.80be4fd7.chunk.js.map": "/ColorGen/static/js/3.80be4fd7.chunk.js.map",
+    "index.html": "/ColorGen/index.html",
+    "static/css/main.b107f223.chunk.css.map": "/ColorGen/static/css/main.b107f223.chunk.css.map",
+    "static/js/2.880eb5de.chunk.js.LICENSE.txt": "/ColorGen/static/js/2.880eb5de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d2ac366.js",
+    "static/js/2.880eb5de.chunk.js",
+    "static/css/main.b107f223.chunk.css",
+    "static/js/main.cf291277.chunk.js"
+  ]
+}
